@@ -2,7 +2,7 @@
 /* eslint-disable no-console */
 /* eslint-disable no-undef */
 /* eslint-disable @typescript-eslint/no-var-requires */
-const { execSync } = require('child_process');
+import { execSync } from 'child_process';
 
 const runCommand = command => {
   try {
