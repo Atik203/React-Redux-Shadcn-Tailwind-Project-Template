@@ -15,23 +15,11 @@ This is a frontend starter pack using React, Redux, Shadcn, Tailwind CSS, and Ty
 
 **Install using npx**
 
-1. Create a new project using the template:
+1. # Create a new project using the template:
 
-<<<<<<< HEAD
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: "latest",
-    sourceType: "module",
-    project: ["./tsconfig.json", "./tsconfig.node.json"],
-    tsconfigRootDir: __dirname,
-  },
-};
-=======
 ```
 npx @atik203/react-shadcn-tailwind-starter my-project
->>>>>>> b6ec125138f976ffbf5bf3cb261c49c0da44c7bf
+
 ```
 
 1. Clone the repository:
@@ -51,7 +39,6 @@ cd React-Redux-Shadcn-Tailwind-Project-Template
 
 ```
 yarn
-
 ```
 
 ### Running the Application
