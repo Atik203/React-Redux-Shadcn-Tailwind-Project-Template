@@ -1,6 +1,6 @@
 {
   "name": "@atik203/react-shadcn-tailwind-starter",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Atikur Rahaman",
   "description": "A starter template for React with Tailwind CSS, TypeScript, and shandcn ui",
   "type": "module",
@@ -34,6 +34,7 @@
     "@radix-ui/react-slot": "^1.1.0",
     "@reduxjs/toolkit": "^2.2.6",
     "antd": "^5.20.2",
+    "child_process": "^1.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "jwt-decode": "^4.0.0",
